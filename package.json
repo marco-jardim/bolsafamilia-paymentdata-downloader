@@ -1,0 +1,22 @@
+{
+  "name": "bolsafamilia-paymentdata-downloader",
+  "version": "1.0.0",
+  "description": "Downloads bolsa família payment data from Portal Transparencia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco-jardim/bolsafamilia-paymentdata-downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marco-jardim/bolsafamilia-paymentdata-downloader/issues"
+  },
+  "homepage": "https://github.com/marco-jardim/bolsafamilia-paymentdata-downloader#readme",
+  "dependencies": {
+    "bent": "^7.3.10"
+  }
+}
